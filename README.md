@@ -7,6 +7,7 @@ Tenho 22 anos e sou desenvolvedor!
 Meu foco no momento esta em Dev FullStack!
 
 <div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorViniciusB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorViniciusB&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -22,12 +23,12 @@ Meu foco no momento esta em Dev FullStack!
 ### Tecnologias que uso:
 
 <div>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="centeer" alt"Victor-html" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="centeer" alt"HTML" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="centeer" alt"CSS" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="centeer" alt"JAVASCRIPT" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="centeer" alt"NODEJS" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="centeer" alt"REACT" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 </div>
 
