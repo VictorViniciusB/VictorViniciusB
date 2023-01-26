@@ -1,5 +1,5 @@
 ### Olá!
-
+ 
 Me chamo Victor Vinicius!
 
 Tenho 22 anos e sou desenvolvedor!
@@ -7,6 +7,7 @@ Tenho 22 anos e sou desenvolvedor!
 Meu foco no momento esta em Dev FullStack!
 
 <div>
+ <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorViniciusB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorViniciusB&layout=compact&theme=tokyonight"/>
 </div>
