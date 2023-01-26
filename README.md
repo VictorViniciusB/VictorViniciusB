@@ -7,8 +7,6 @@ Tenho 22 anos e sou desenvolvedor!
 Meu foco no momento esta em Dev FullStack!
 
 <div>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorViniciusB&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorViniciusB&layout=compact&theme=tokyonight"/>
 </div>
 
