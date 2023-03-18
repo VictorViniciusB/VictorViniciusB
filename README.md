@@ -4,7 +4,7 @@ Me chamo Victor Vinicius!
 
 Tenho 23 anos e sou desenvolvedor!
 
-Meu foco no momento esta em Dev FullStack!
+Meu foco no momento esta em Desenvolvedor FullStack!
 
 <div>
  <div align="center">
