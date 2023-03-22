@@ -6,13 +6,6 @@ Tenho 23 anos e sou desenvolvedor!
 
 Meu foco no momento esta em Desenvolvedor FullStack!
 
-<div>
- <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorViniciusB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorViniciusB&layout=compact&theme=tokyonight"/>
-</div>
-</div>
-
 ### Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/380553484379881473/380553484379881475)
