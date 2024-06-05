@@ -24,6 +24,7 @@ Meu foco no momento esta em Desenvolvedor FullStack!
 <img align="centeer" alt"REACT" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="centeer" alt"NODEJS" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="centeer" alt"PYTHON" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 </div>
 
